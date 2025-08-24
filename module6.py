@@ -1,3 +1,5 @@
+#Module_6. The math library: mathematical functions, using with turtle
+
 #1
 from math import sqrt
 S = int(input())

@@ -1,3 +1,5 @@
+#Module_7. Functions in Python
+
 #1
 def choose_name():
     name1 = input()

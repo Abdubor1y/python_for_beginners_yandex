@@ -1,3 +1,5 @@
+#Module_5. While loop
+
 #1
 number = int(input())
 while number > 0:
